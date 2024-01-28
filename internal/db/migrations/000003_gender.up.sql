@@ -1,0 +1,1 @@
+ALTER TABLE persons ADD gender VARCHAR (10);
